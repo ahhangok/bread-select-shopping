@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "type": "pizza",
+      "cream": "nonCream",
+      "image": "img/pizza.png"
+    },
+    {
+      "type": "crea",
+      "cream": "cream",
+      "image": "img/cream.png"
+    },
+    {
+      "type": "sandwich",
+      "cream": "nonCream",
+      "image": "img/sandwich.png"
+    },
+    {
+      "type": "pizza",
+      "cream": "nonCream",
+      "image": "img/pizza.png"
+    },
+    {
+      "type": "pizza",
+      "cream": "nonCream",
+      "image": "img/pizza.png"
+    },
+    {
+      "type": "cream",
+      "cream": "cream",
+      "image": "img/cream.png"
+    },
+    {
+      "type": "cream",
+      "cream": "cream",
+      "image": "img/cream.png"
+    },
+    {
+      "type": "cream",
+      "cream": "cream",
+      "image": "img/cream.png"
+    },
+    {
+      "type": "cream",
+      "cream": "cream",
+      "image": "img/cream.png"
+    },
+    {
+      "type": "cream",
+      "cream": "cream",
+      "image": "img/cream.png"
+    },
+    {
+      "type": "sandwich",
+      "cream": "nonCream",
+      "image": "img/sandwich.png"
+    },
+    {
+      "type": "sandwich",
+      "cream": "nonCream",
+      "image": "img/sandwich.png"
+    },
+    {
+      "type": "sandwich",
+      "cream": "nonCream",
+      "image": "img/sandwich.png"
+    },
+    {
+      "type": "sandwich",
+      "cream": "nonCream",
+      "image": "img/sandwich.png"
+    },
+    {
+      "type": "sandwich",
+      "cream": "nonCream",
+      "image": "img/sandwich.png"
+    },
+    {
+      "type": "sandwich",
+      "cream": "nonCream",
+      "image": "img/sandwich.png"
+    }
+  ]
+}
